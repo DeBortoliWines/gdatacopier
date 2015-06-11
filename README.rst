@@ -1,3 +1,6 @@
+GDataCopier 2
+=============
+
 GDataCopier provides comprehensive set of tools for System Administrators (mostly on Unix like platforms) to list, manage, backup and synchronise documents stored on Google's Document Service. Some major features are:
 
 - scp like syntax to list and copy documents
@@ -22,7 +25,8 @@ Requirements:
 - Ability to establish HTTPS connections to Google's servers (check with your sys admin if you use proxies)
 - Python Keyring library
 
-## About the Developers
+About the Developers
+^^^^^^^^^^^^^^^^^^^^
 
 GDataCopier was developed and is maintained by Devraj Mukherjee. Devraj spends most of his time running Eternity Technologies a high end Web / Mobile technology company.
 
